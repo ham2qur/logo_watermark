@@ -1,4 +1,4 @@
-# logo_watermark
+# Logo watermark on Photo using python pillow 
 
 Script to add transparent center PNG image logo watermark on JPEG photos. 
 
